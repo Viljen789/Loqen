@@ -3,4 +3,6 @@ export type TimerItem = {
     label: string;
     duration: number;
     isFavorite?: boolean;
+    categoryId?: number;
 };
+
