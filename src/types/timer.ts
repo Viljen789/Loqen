@@ -5,4 +5,3 @@ export type TimerItem = {
     isFavorite?: boolean;
     categoryId?: number;
 };
-
